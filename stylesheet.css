@@ -1,4 +1,4 @@
 @font-face {
     font-family: CCRIGE;
-    src: url("./ccrige.woff2") format('woff2'), url("./ccrige.woff") format('woff'), url("./ccrige.otf");
+    src: url("./ccrige.woff2"), url("./ccrige.woff"), url("./ccrige.otf");
 }
